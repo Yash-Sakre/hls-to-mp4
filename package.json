@@ -49,6 +49,18 @@
     "react"
   ],
   "license": "MIT",
+  "author": "Yash Sakre <yashsakre940@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yash-Sakre/hls-to-mp4.git"
+  },
+  "homepage": "https://github.com/Yash-Sakre/hls-to-mp4#readme",
+  "bugs": {
+    "url": "https://github.com/Yash-Sakre/hls-to-mp4/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  },
   "peerDependencies": {
     "@ffmpeg/core": "^0.12.10",
     "react": ">=16.8"
